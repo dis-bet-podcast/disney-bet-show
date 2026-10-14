@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dis-bet-podcast.github.io/disney-bet-show/sitemap.xml

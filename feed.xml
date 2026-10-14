@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>디즈니벳</title>
+    <link>https://dis-bet-podcast.github.io/disney-bet-show/</link>
+    <description>디즈니벳은 온라인 공지와 이용 안내문을 비교해 읽는 방법을 정리합니다. 눈에 띄는 제목뿐 아니라 적용 기간, 대상, 예외 조항, 변경 시점을 함께 살펴보는 것이 핵심입니다. 디즈니벳의 문서 노트는 서로 다른 버전의 안내를 한데 섞지 않고, 현재 확인한 문구와 아직 확인하지 못한 조건을 구분합니다. 실제 이용을 권하거나 운영 실적을 인증하는 자료가 아닌, 안내문의 구조를 이해하기 위한 읽을거리입니다. 현재 첫 회차는 짧은 연주 음원이며, 위 주제의 설명은 텍스트로 제공합니다.</description>
+    <language>ko</language>
+    <lastBuildDate>Wed, 14 Oct 2026 10:36:03 GMT</lastBuildDate>
+    <atom:link href="https://dis-bet-podcast.github.io/disney-bet-show/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>디즈니벳</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>디즈니벳</itunes:name>
+      <itunes:email>nguyenhongducdn1998@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://dis-bet-podcast.github.io/disney-bet-show/cover.jpg" />
+    <itunes:category>Music</itunes:category>
+    <image>
+      <url>https://dis-bet-podcast.github.io/disney-bet-show/cover.jpg</url>
+      <title>디즈니벳</title>
+      <link>https://dis-bet-podcast.github.io/disney-bet-show/</link>
+    </image>
+    <item>
+      <title>디즈니벳 · 오프닝 연주</title>
+      <description>디즈니벳의 오프닝으로 배치한 짧은 연주 음원입니다. 재생 길이는 약 33초이며 대화나 문서 해설은 포함하지 않습니다. 공지의 적용 범위와 변경 시점을 다룬 글은 함께 연결된 페이지에서 읽을 수 있습니다.</description>
+      <link>https://dis-bet-podcast.github.io/disney-bet-show/#episode-001</link>
+      <guid isPermaLink="false">brand-show-20261014-disney-bet-001</guid>
+      <pubDate>Wed, 14 Oct 2026 10:36:03 GMT</pubDate>
+      <enclosure url="https://dis-bet-podcast.github.io/disney-bet-show/opening.mp3" length="780588" type="audio/mpeg" />
+      <itunes:duration>00:00:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
